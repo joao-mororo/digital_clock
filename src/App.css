@@ -1,0 +1,33 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100vw;
+}
+
+#configs,
+#clock,
+#theme {
+  width: 33.3333%;
+}
+
+/* #configs label {
+  color: #00ffff;
+}
+
+#configs input {
+  color: #fff;
+}
+
+#configs button {
+  color: #00ffff;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  color: #00ffff;
+  border-color: #00ffff !important;
+}  */
+
+.MuiAutocomplete-root {
+  margin: 10px;
+}
